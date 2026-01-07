@@ -1,0 +1,27 @@
+{
+  "name": "react-native-bat-pass-generator",
+  "version": "1.0.0",
+  "description": "Um aplicativo React Native que simula um sequenciador de senhas do Batman",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.6",
+    "expo": "~48.0.18",
+    "expo-status-bar": "~1.4.4",
+    "expo-clipboard": "~4.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@types/react": "^18.0.26",
+    "@types/react-native": "^0.71.2",
+    "typescript": "^4.9.4"
+  },
+  "private": true
+}
